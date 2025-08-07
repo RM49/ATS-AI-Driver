@@ -1,6 +1,9 @@
 # ATS-AI-Driver
 This was an attempt to create a self-driving model to play American Truck Simulator
 
+I used Gemini 2.5 pro to help with the coding - that is why the code looks AI generated :)
+
+
 Video of it progressing...ish : https://youtu.be/_vVOMTsVJwI
 Video of the most recent version : https://youtu.be/RmVj31C7lfU
 
